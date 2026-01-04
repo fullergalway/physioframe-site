@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#g)"/>
+
+  <!-- stylised motion mark -->
+  <path
+    d="M18 38c8 0 8-20 16-20s8 20 16 20"
+    fill="none"
+    stroke="white"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M10 32h6"
+    fill="none"
+    stroke="white"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+</svg>
